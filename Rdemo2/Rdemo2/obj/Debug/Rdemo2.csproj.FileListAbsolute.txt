@@ -1,0 +1,3 @@
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Rdemo2\Rdemo2\obj\Debug\Rdemo2.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Rdemo2\Rdemo2\obj\Debug\Rdemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\Rdemo2\Rdemo2\obj\Debug\Rdemo2.csproj.CoreCompileInputs.cache
